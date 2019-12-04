@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "run.app",
+        "aws_region": "ap-south-1",
+        "profile_name": "default",
+        "project_name": "flask-full-todo",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-zgfb272wv"
+    }
+}
