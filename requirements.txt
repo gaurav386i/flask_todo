@@ -7,7 +7,7 @@ Flask-SQLAlchemy==2.4.0
 Flask-WTF==0.14.2
 itsdangerous==1.1.0
 Jinja2==2.10.1
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 
 python-editor==1.0.4
@@ -38,7 +38,7 @@ Jinja2==2.10.1
 jmespath==0.9.3
 kappa==0.6.0
 lambda-packages==0.20.0
-Mako==1.1.0
+Mako==1.2.2
 MarkupSafe==1.1.1
 placebo==0.9.0
 python-dateutil==2.6.1
